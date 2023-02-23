@@ -1,0 +1,10 @@
+# from .gitignore
+node_modules
+coverage
+dist/
+.idea/
+*.iml
+.env
+.envrc
+
+package-lock.json
