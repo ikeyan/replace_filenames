@@ -8,3 +8,7 @@
 /dataSources.local.xml
 # Zeppelin ignored files
 /ZeppelinRemoteNotebooks/
+/aws.xml
+/php.xml
+/sbt.xml
+/codeStyles
